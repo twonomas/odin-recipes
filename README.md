@@ -1,1 +1,2 @@
 # odin-recipes
+Se va a crear un sitio web simple de recetas. El sitio estará formado por una pagina principal desde la cual se podrá acceder a algunas recetas de cocina, todo esto con el fin de poner en práctica los conceptos de HTML vistos hasta el momento, dejando de lado la estética (más adelante se va a retomar con CSS).
